@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>Aula 01</title>
+	</head>
+
+
+	<body>
+		<h1>Meu primeiro dia de aula</h1>
+
+		<h2>O Curso</h2>
+
+		<p>O curso de <b>Sistemas para Internet</b> é muito baum!</p>
+
+		<h3>A disciplina de Introdução à Construção de Páginas Web</h3>
+
+		<p>A disciplina é muito boa. Aprenda a usar HTML e CSS para criar páginas web. HTML é a linguagem de marcação com a
+			qual você envolve o conteúdo, para instruir os navegadores sobre cabeçalhos, listas, tabelas, etc. CSS é a
+			linguagem de estilos que você usa para estilizar a página, para instruir os navegadores a alterar a cor, a
+			fonte, o layout e muito mais.
+			
+		</p>
+
+		<h1>O professor</h1>
+
+		<p>O professor é meio maluco, mas até que parece ser legal.</p> <p>Não vou me enganar muito cedo, pra não cair do cavalo depois.</p>
+
+	</body>
+
+</html>
